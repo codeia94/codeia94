@@ -4,14 +4,7 @@ Welcome to my GitHub profile! I’m a recent graduate from a software engineerin
 
 ## About Me
 
-- 👋 **Hi, I’m @codeia94**:
-  - I'm a passionate software engineer with a fresh perspective and a creative background in music.
-  - 📚 **Background**: I recently graduated from a comprehensive software engineering bootcamp in Vancouver, where I developed my skills in full-stack development.
-  - 🎮 **Avid Gamer**: I enjoy exploring immersive worlds in video games and often draw inspiration from game design for my coding projects.
-  - 🐶 **Dog Lover**: I have a wonderful dog named **Kira** who keeps me active and brings joy to my life.
-  - 🎹 **Musician**: With over 20 years of playing the piano, music has been a significant part of my life and has nurtured my creative thinking and discipline.
-  - 🏂 **Snowboarder**: I love snowboarding and the thrill of navigating down the slopes and trees.
-  - 🧩 **Puzzle Enthusiast**: I enjoy solving puzzles and challenges, which complements my passion for creating functional yet beautiful websites.
+I’m a passionate software engineer who’s always eager to learn and inspired by the latest technology. After spending a decade in the music industry, I made the leap into software development driven by my deep passion for creating innovative solutions and solving complex problems. This transition has allowed me to blend my creativity and analytical skills, and I’m excited to continually grow and excel in the tech field.
 
 - 👀 **I’m interested in learning**:
   - The latest advancements in **web development** and **artificial intelligence**.
